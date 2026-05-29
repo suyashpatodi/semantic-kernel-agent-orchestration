@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SemanticKernelAgentOrchestration/.vs/SemanticKernelAgentOrchestration
+/SemanticKernelAgentOrchestration/ConcurrentOrchestration/bin/Debug/net9.0
+/SemanticKernelAgentOrchestration/ConcurrentOrchestration/obj
