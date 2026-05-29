@@ -7,8 +7,7 @@ using System.ClientModel;
 
 var builder = Kernel.CreateBuilder();
 
-var apiKey = "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";
-var model = "gpt-4o-mini";
+var apiKey = "Github_Pat_Token";
 var endpoint = "https://models.github.ai/inference";
 
 var openAIClient = new OpenAIClient(
