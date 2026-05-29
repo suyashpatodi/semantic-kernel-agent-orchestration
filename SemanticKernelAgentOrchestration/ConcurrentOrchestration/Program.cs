@@ -7,7 +7,7 @@ using System.ClientModel;
 
 var builder = Kernel.CreateBuilder();
 
-var apiKey = "Github_Pat_Token";
+var apiKey = string.Empty;
 var endpoint = "https://models.github.ai/inference";
 
 var openAIClient = new OpenAIClient(
